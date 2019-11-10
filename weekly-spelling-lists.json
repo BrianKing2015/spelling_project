@@ -1,0 +1,11 @@
+{
+	"Sep 13": ["an", "can", "man", "ran", "dad", "had"],
+	"Sep 20": ["at", "am", "cat", "hat", "has", "and", "big", "add", "my", "to"],
+	"Sep 27": ["let", "get", "net", "pet", "pen", "men", "the", "we", "is", "can"],
+	"Oct 4": ["jet", "set", "met", "bed", "yes", "leg", "he", "she", "you", "look"],
+	"Oct 11": ["it", "bit", "sit", "is", "his", "in", "with", "like", "play", "said"],
+	"Oct 18": ["if", "big", "dig", "pig", "did", "him", "have", "here", "come", "little"],
+	"Nov 1": ["not", "hot", "pot", "got", "box", "fox", "are", "all", "am", "has", "boat", "float"],
+	"Nov 8": ["on", "mom", "job", "hop", "top", "mop", "as", "be", "by", "did", "move", "prove"],
+	"BONUS": ["alert", "insert", "charm", "alarm", "allow", "little", "pitch", "stitch", "catch", "batch", "boat", "float", "move", "prove"]
+}
